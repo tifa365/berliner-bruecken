@@ -58,9 +58,9 @@
       "name": "Spittelmarktbrücke",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.511595729999996,
+      "lon": 13.40208022,
+      "coord_quelle": "WFS Detailnetz Berlin: Spittelmarktbrücke"
     },
     {
       "id": "b006",
@@ -278,9 +278,9 @@
       "name": "Blankenburger Laakebrücke",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.598932070000004,
+      "lon": 13.46890118,
+      "coord_quelle": "WFS Detailnetz Berlin: Blankenburger-Laake-Brücke"
     },
     {
       "id": "b028",
@@ -298,9 +298,9 @@
       "name": "Pankebrücke",
       "detail": "I",
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.608024575,
+      "lon": 13.449358325,
+      "coord_quelle": "WFS Detailnetz Berlin: Pankebrücke (Panke)"
     },
     {
       "id": "b030",
@@ -308,9 +308,9 @@
       "name": "Pankebrücke",
       "detail": "II",
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.608024575,
+      "lon": 13.449358325,
+      "coord_quelle": "WFS Detailnetz Berlin: Pankebrücke (Panke)"
     },
     {
       "id": "b031",
@@ -318,9 +318,9 @@
       "name": "Östliche Bucher-Straßenbrücke",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.616485265,
+      "lon": 13.44671456,
+      "coord_quelle": "WFS Detailnetz Berlin: Östliche Bucher-Straßenbrücke"
     },
     {
       "id": "b032",
@@ -438,9 +438,9 @@
       "name": "Darßer Brücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.56728678,
+      "lon": 13.47448949,
+      "coord_quelle": "WFS Detailnetz Berlin: Darßer Brücke"
     },
     {
       "id": "b044",
@@ -458,9 +458,9 @@
       "name": "Ossietzkybrücke",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.575060789999995,
+      "lon": 13.40694284,
+      "coord_quelle": "WFS Detailnetz Berlin: Ossietzkybrücke (Panke)"
     },
     {
       "id": "b046",
@@ -468,9 +468,9 @@
       "name": "Schloßparkbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.575399559999994,
+      "lon": 13.407663195000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Schloßparkbrücke I (Panke)"
     },
     {
       "id": "b047",
@@ -478,9 +478,9 @@
       "name": "Schloßparkbrücke",
       "detail": "III",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.575399559999994,
+      "lon": 13.407663195000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Schloßparkbrücke I (Panke)"
     },
     {
       "id": "b048",
@@ -538,9 +538,9 @@
       "name": "Schlossbrückensteg",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.521789815000005,
+      "lon": 13.30007707,
+      "coord_quelle": "WFS Detailnetz Berlin: Schloßbrücke"
     },
     {
       "id": "b054",
@@ -548,9 +548,9 @@
       "name": "Nördliche Holzbrücke Ruhwaldpark",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.513519009999996,
+      "lon": 13.344487645000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Holzbrücke"
     },
     {
       "id": "b055",
@@ -568,9 +568,9 @@
       "name": "Halenseestraßenbrücke",
       "detail": "West",
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.500233341666664,
+      "lon": 13.280208236666667,
+      "coord_quelle": "WFS Detailnetz Berlin: Halenseestraßenbrücke"
     },
     {
       "id": "b057",
@@ -578,9 +578,9 @@
       "name": "Halenseestraßenbrücke",
       "detail": "Ost",
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.500233341666664,
+      "lon": 13.280208236666667,
+      "coord_quelle": "WFS Detailnetz Berlin: Halenseestraßenbrücke"
     },
     {
       "id": "b058",
@@ -638,9 +638,9 @@
       "name": "Spektelakesteg",
       "detail": "I",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.54625419,
+      "lon": 13.151822275,
+      "coord_quelle": "WFS Detailnetz Berlin: Spektelakesteg I"
     },
     {
       "id": "b064",
@@ -648,9 +648,9 @@
       "name": "Carl-Schurz-Brücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53583117,
+      "lon": 13.20131887,
+      "coord_quelle": "WFS Detailnetz Berlin: Carl-Schurz-Brücke"
     },
     {
       "id": "b065",
@@ -848,9 +848,9 @@
       "name": "Teltowkanalbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.426168395,
+      "lon": 13.526654385,
+      "coord_quelle": "WFS Detailnetz Berlin: Teltowkanalbrücke"
     },
     {
       "id": "b085",
@@ -858,9 +858,9 @@
       "name": "Nördliche Germanenstraßenbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.4140458,
+      "lon": 13.55302094,
+      "coord_quelle": "WFS Detailnetz Berlin: Nördliche Germanenstraßenbrücke"
     },
     {
       "id": "b086",
@@ -878,9 +878,9 @@
       "name": "Brigittensteg",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.40045906,
+      "lon": 13.532098315,
+      "coord_quelle": "WFS Detailnetz Berlin: Brigittensteg (Fußgängerbrücke)"
     },
     {
       "id": "b088",
@@ -888,9 +888,9 @@
       "name": "Brigittenbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.40045906,
+      "lon": 13.532098315,
+      "coord_quelle": "WFS Detailnetz Berlin: Brigittenbrücke"
     },
     {
       "id": "b089",
@@ -898,9 +898,9 @@
       "name": "Brücke am Bahndamm",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.4595324,
+      "lon": 13.57659737,
+      "coord_quelle": "WFS Detailnetz Berlin: Brücke Am Bahndamm (Wuhle)"
     },
     {
       "id": "b090",
@@ -948,9 +948,9 @@
       "name": "Köpenicker-Allee-Brücke",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.46911712,
+      "lon": 13.552902425,
+      "coord_quelle": "WFS Detailnetz Berlin: Köpenicker-Allee-Brücke"
     },
     {
       "id": "b095",
@@ -958,9 +958,9 @@
       "name": "Waldstraßenbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.424694085,
+      "lon": 13.72041526,
+      "coord_quelle": "WFS Detailnetz Berlin: Waldstraßenbrücke"
     },
     {
       "id": "b096",
@@ -988,9 +988,9 @@
       "name": "Nördliche Rialtoringbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.432324135,
+      "lon": 13.7054257,
+      "coord_quelle": "WFS Detailnetz Berlin: Nördliche Rialtoringbrücke"
     },
     {
       "id": "b099",
@@ -998,9 +998,9 @@
       "name": "Marzahner Brücke",
       "detail": "Bauwerk 16",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53861506,
+      "lon": 13.53246489,
+      "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
     },
     {
       "id": "b100",
@@ -1008,9 +1008,9 @@
       "name": "Marzahner Brücke",
       "detail": "Bauwerk 13 Nord",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53861506,
+      "lon": 13.53246489,
+      "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
     },
     {
       "id": "b101",
@@ -1018,9 +1018,9 @@
       "name": "Marzahner Brücke",
       "detail": "Bauwerk 13 Süd",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53861506,
+      "lon": 13.53246489,
+      "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
     },
     {
       "id": "b102",
@@ -1028,9 +1028,9 @@
       "name": "Marzahner Brücke",
       "detail": "Bauwerk 9 Nord",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53861506,
+      "lon": 13.53246489,
+      "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
     },
     {
       "id": "b103",
@@ -1038,9 +1038,9 @@
       "name": "Marzahner Brücke",
       "detail": "Bauwerk 9 Süd",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53861506,
+      "lon": 13.53246489,
+      "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
     },
     {
       "id": "b104",
@@ -1048,9 +1048,9 @@
       "name": "Marzahner Brücke",
       "detail": "Bauwerk 8",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.53861506,
+      "lon": 13.53246489,
+      "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
     },
     {
       "id": "b105",
@@ -1058,9 +1058,9 @@
       "name": "Brücke Allee der Kosmonauten",
       "detail": "Bauwerk 5a",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525626445,
+      "lon": 13.53697174,
+      "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
     },
     {
       "id": "b106",
@@ -1068,9 +1068,9 @@
       "name": "Brücke Allee der Kosmonauten",
       "detail": "Bauwerk 5c",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525626445,
+      "lon": 13.53697174,
+      "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
     },
     {
       "id": "b107",
@@ -1078,9 +1078,9 @@
       "name": "Brücke Allee der Kosmonauten",
       "detail": "Bauwerk 6a",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525626445,
+      "lon": 13.53697174,
+      "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
     },
     {
       "id": "b108",
@@ -1088,9 +1088,9 @@
       "name": "Brücke Allee der Kosmonauten",
       "detail": "Bauwerk 6c",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525626445,
+      "lon": 13.53697174,
+      "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
     },
     {
       "id": "b109",
@@ -1098,9 +1098,9 @@
       "name": "Brücke Allee der Kosmonauten",
       "detail": "Bauwerk 7c",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525626445,
+      "lon": 13.53697174,
+      "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
     },
     {
       "id": "b110",
@@ -1108,9 +1108,9 @@
       "name": "Brücke Allee der Kosmonauten",
       "detail": "Bauwerk 7a",
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525626445,
+      "lon": 13.53697174,
+      "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
     },
     {
       "id": "b111",
@@ -1118,9 +1118,9 @@
       "name": "Südl. Nikolai-E.-Bersarin-Brücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.549543895,
+      "lon": 13.58661391,
+      "coord_quelle": "WFS Detailnetz Berlin: Nikolai-E.-Bersarin-Brücke"
     },
     {
       "id": "b112",
@@ -1128,9 +1128,9 @@
       "name": "Cecilienstraßenbrücke",
       "detail": "nördlich",
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.5233597,
+      "lon": 13.588782075000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Cecilienstraßenbrücke, nördl.Gehb.- u. Rohrleitungsbrücke"
     },
     {
       "id": "b113",
@@ -1138,9 +1138,9 @@
       "name": "Cecilienstraßenbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.5233597,
+      "lon": 13.588782075000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Cecilienstraßenbrücke, nördl.Gehb.- u. Rohrleitungsbrücke"
     },
     {
       "id": "b114",
@@ -1148,9 +1148,9 @@
       "name": "Cecilienstraßenbrücke",
       "detail": "südlich",
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.5233597,
+      "lon": 13.588782075000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Cecilienstraßenbrücke, nördl.Gehb.- u. Rohrleitungsbrücke"
     },
     {
       "id": "b115",
@@ -1278,9 +1278,9 @@
       "name": "Fußgängerbrücke Grabensprung",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.501761765,
+      "lon": 13.554234319999999,
+      "coord_quelle": "WFS Detailnetz Berlin: FGB Grabensprung"
     },
     {
       "id": "b128",
@@ -1308,9 +1308,9 @@
       "name": "Cecilienbrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.525610655,
+      "lon": 13.579169015,
+      "coord_quelle": "WFS Detailnetz Berlin: Cecilienbrücke"
     },
     {
       "id": "b131",
@@ -1318,9 +1318,9 @@
       "name": "Östliche Hellersdorfer Brücke",
       "detail": null,
       "phase": "in_planung",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.539801819999994,
+      "lon": 13.58174115,
+      "coord_quelle": "WFS Detailnetz Berlin: Östliche Hellersdorfer Brücke"
     },
     {
       "id": "b132",
@@ -1348,9 +1348,9 @@
       "name": "Köthener Brücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.502734544999996,
+      "lon": 13.37485197,
+      "coord_quelle": "WFS Detailnetz Berlin: Köthener Brücke"
     },
     {
       "id": "b135",
@@ -1358,9 +1358,9 @@
       "name": "Wuhletalbrücke",
       "detail": "Überbau 1",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.562692334999994,
+      "lon": 13.558503315,
+      "coord_quelle": "WFS Detailnetz Berlin: Wuhletalbrücke,ÜBB1 RF Stadteinwärts"
     },
     {
       "id": "b136",
@@ -1368,9 +1368,9 @@
       "name": "Wuhletalbrücke",
       "detail": "Überbau 2",
       "phase": "im_bau",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.562692334999994,
+      "lon": 13.558503315,
+      "coord_quelle": "WFS Detailnetz Berlin: Wuhletalbrücke,ÜBB1 RF Stadteinwärts"
     },
     {
       "id": "b137",
@@ -1418,9 +1418,9 @@
       "name": "Honsfelder Brücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.49748133999999,
+      "lon": 13.568847595000001,
+      "coord_quelle": "WFS Detailnetz Berlin: Honsfelder Brücke (Wuhle)"
     },
     {
       "id": "b142",
@@ -1448,9 +1448,9 @@
       "name": "Mosbacher Brücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.502641804999996,
+      "lon": 13.577759525,
+      "coord_quelle": "WFS Detailnetz Berlin: Mosbacher Brücke (Wuhle)"
     },
     {
       "id": "b145",
@@ -1458,9 +1458,9 @@
       "name": "Seebrücke",
       "detail": null,
       "phase": "zeitplan_unbestimmt",
-      "lat": null,
-      "lon": null,
-      "coord_quelle": null
+      "lat": 52.42080017,
+      "lon": 13.171414129999999,
+      "coord_quelle": "WFS Detailnetz Berlin: Wannseebrücke"
     },
     {
       "id": "b146",

@@ -62,7 +62,10 @@
           "baujahr": 1977,
           "baubeginn": 2027,
           "bauende": 2028,
-          "kosten_mio": 20
+          "kosten_mio": 20,
+          "lat": 52.512121995,
+          "lon": 13.403136005,
+          "coord_quelle": "WFS Detailnetz Berlin: Neue Gertraudenbrücke (Südost)"
         },
         {
           "name": "Neue Gertraudenbrücke Nordwest",
@@ -70,7 +73,10 @@
           "baujahr": 1977,
           "baubeginn": 2027,
           "bauende": 2028,
-          "kosten_mio": 20
+          "kosten_mio": 20,
+          "lat": 52.512210135000004,
+          "lon": 13.402969044999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Neue Gertraudenbrücke (Nordwest)"
         },
         {
           "name": "Spittelmarktbrücke",
@@ -78,7 +84,10 @@
           "baujahr": 1978,
           "baubeginn": 2026,
           "bauende": 2028,
-          "kosten_mio": 10
+          "kosten_mio": 10,
+          "lat": 52.511595729999996,
+          "lon": 13.40208022,
+          "coord_quelle": "WFS Detailnetz Berlin: Spittelmarktbrücke"
         },
         {
           "name": "Putlitzbrücke Überbau 1",
@@ -198,7 +207,10 @@
           "baujahr": 1968,
           "baubeginn": 2029,
           "bauende": 2032,
-          "kosten_mio": 8
+          "kosten_mio": 8,
+          "lat": 52.49789182,
+          "lon": 13.389173114999998,
+          "coord_quelle": "WFS Detailnetz Berlin: Mehringbrücke, ÜBB Ost"
         },
         {
           "name": "Mehringbrücke westlicher Teil",
@@ -206,7 +218,10 @@
           "baujahr": 1968,
           "baubeginn": 2029,
           "bauende": 2032,
-          "kosten_mio": 8
+          "kosten_mio": 8,
+          "lat": 52.497894445,
+          "lon": 13.3888417,
+          "coord_quelle": "WFS Detailnetz Berlin: Mehringbrücke, ÜBB West"
         },
         {
           "name": "Elsenbrücke nordwestlicher Teil",
@@ -215,14 +230,20 @@
           "baubeginn": 2021,
           "bauende": 2028,
           "kosten_mio": 58.5,
-          "bemerkung": "Verkehrsfreigabe voraussichtlich Februar 2026"
+          "bemerkung": "Verkehrsfreigabe voraussichtlich Februar 2026",
+          "lat": 52.49594536,
+          "lon": 13.463001429999998,
+          "coord_quelle": "WFS Detailnetz Berlin: Elsenbrücke (Spree), ÜBB Nordwest"
         },
         {
           "name": "Elsenbrücke südöstlicher Teil",
           "status": "in_planung",
           "baubeginn": 2026,
           "bauende": 2028,
-          "kosten_mio": 58.5
+          "kosten_mio": 58.5,
+          "lat": 52.49594536,
+          "lon": 13.463001429999998,
+          "coord_quelle": "WFS Detailnetz Berlin: Elsenbrücke (Spree), ÜBB Nordwest"
         },
         {
           "name": "Thielenbrücke",
@@ -237,7 +258,10 @@
           "baujahr": 1946,
           "baubeginn": 2037,
           "bauende": 2040,
-          "kosten_mio": 20
+          "kosten_mio": 20,
+          "lat": 52.5071557,
+          "lon": 13.449931405000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Warschauer Brücke, ÜBB Nord"
         },
         {
           "name": "Warschauer Brücke mittlerer Überbau",
@@ -245,7 +269,10 @@
           "baujahr": 1946,
           "baubeginn": 2037,
           "bauende": 2040,
-          "kosten_mio": 21
+          "kosten_mio": 21,
+          "lat": 52.50650323,
+          "lon": 13.449517725,
+          "coord_quelle": "WFS Detailnetz Berlin: Warschauer Brücke, ÜBB Mitte"
         },
         {
           "name": "Warschauer Brücke südlicher Überbau",
@@ -253,7 +280,10 @@
           "baujahr": 1946,
           "baubeginn": 2037,
           "bauende": 2040,
-          "kosten_mio": 10
+          "kosten_mio": 10,
+          "lat": 52.505862125,
+          "lon": 13.449100529999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Warschauer Brücke, ÜBB Süd"
         }
       ]
     },
@@ -278,7 +308,10 @@
           "baujahr": 2017,
           "baubeginn": 2029,
           "bauende": 2031,
-          "kosten_mio": 7.4
+          "kosten_mio": 7.4,
+          "lat": 52.598932070000004,
+          "lon": 13.46890118,
+          "coord_quelle": "WFS Detailnetz Berlin: Blankenburger-Laake-Brücke"
         },
         {
           "name": "Bahnhofstraßenbrücke",
@@ -298,7 +331,10 @@
           "baujahr": 1974,
           "baubeginn": 2026,
           "bauende": 2029,
-          "kosten_mio": 26
+          "kosten_mio": 26,
+          "lat": 52.616485265,
+          "lon": 13.44671456,
+          "coord_quelle": "WFS Detailnetz Berlin: Östliche Bucher-Straßenbrücke"
         },
         {
           "name": "Schönfließer Brücke",
@@ -317,7 +353,10 @@
           "baujahr": 1888,
           "baubeginn": 2026,
           "bauende": 2030,
-          "kosten_mio": 15
+          "kosten_mio": 15,
+          "lat": 52.549509529999995,
+          "lon": 13.413839670000002,
+          "coord_quelle": "WFS Detailnetz Berlin: Schönhauser-Allee-Brücke,Gewölbeteil"
         },
         {
           "name": "Schönhauser-Allee-Brücke Nordwest",
@@ -325,7 +364,10 @@
           "baujahr": 1927,
           "baubeginn": 2026,
           "bauende": 2030,
-          "kosten_mio": 12.5
+          "kosten_mio": 12.5,
+          "lat": 52.549509529999995,
+          "lon": 13.413839670000002,
+          "coord_quelle": "WFS Detailnetz Berlin: Schönhauser-Allee-Brücke,Gewölbeteil"
         },
         {
           "name": "Schönhauser-Allee-Brücke Süd",
@@ -333,7 +375,10 @@
           "baujahr": 1927,
           "baubeginn": 2026,
           "bauende": 2030,
-          "kosten_mio": 12.5
+          "kosten_mio": 12.5,
+          "lat": 52.549509529999995,
+          "lon": 13.413839670000002,
+          "coord_quelle": "WFS Detailnetz Berlin: Schönhauser-Allee-Brücke,Gewölbeteil"
         },
         {
           "name": "Pappelalleebrücke",
@@ -352,7 +397,10 @@
           "baujahr": 1976,
           "baubeginn": 2025,
           "bauende": 2027,
-          "kosten_mio": 13.3
+          "kosten_mio": 13.3,
+          "lat": 52.545798614999995,
+          "lon": 13.423743394999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Dunckerbrücke"
         },
         {
           "name": "Kniprodestraßenbrücke nordwestlicher Teil",
@@ -360,7 +408,10 @@
           "baujahr": 1979,
           "baubeginn": 2028,
           "bauende": 2030,
-          "kosten_mio": 12
+          "kosten_mio": 12,
+          "lat": 52.53617169,
+          "lon": 13.447723005,
+          "coord_quelle": "WFS Detailnetz Berlin: Kniprodestraßenbrücke,ÜBB Nordwest"
         },
         {
           "name": "Kniprodestraßenbrücke südöstlicher Teil",
@@ -368,7 +419,10 @@
           "baujahr": 1979,
           "baubeginn": 2028,
           "bauende": 2030,
-          "kosten_mio": 12
+          "kosten_mio": 12,
+          "lat": 52.53617169,
+          "lon": 13.447723005,
+          "coord_quelle": "WFS Detailnetz Berlin: Kniprodestraßenbrücke,ÜBB Nordwest"
         },
         {
           "name": "Landsberger-Allee-Brücke Gehbahn",
@@ -376,7 +430,10 @@
           "baujahr": 1988,
           "baubeginn": 2031,
           "bauende": 2033,
-          "kosten_mio": 5.5
+          "kosten_mio": 5.5,
+          "lat": 52.52845748,
+          "lon": 13.455536474999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Landsberger-Allee-Brücke (Gehbahn)"
         },
         {
           "name": "Landsberger-Allee-Brücke nördlicher Teil",
@@ -384,7 +441,10 @@
           "baujahr": 1988,
           "baubeginn": 2031,
           "bauende": 2033,
-          "kosten_mio": 8
+          "kosten_mio": 8,
+          "lat": 52.528582799999995,
+          "lon": 13.455441975,
+          "coord_quelle": "WFS Detailnetz Berlin: Landsberger-Allee-Brücke (ÜBB Nord)"
         },
         {
           "name": "Landsberger-Allee-Brücke südlicher Teil",
@@ -392,7 +452,10 @@
           "baujahr": 1989,
           "baubeginn": 2031,
           "bauende": 2033,
-          "kosten_mio": 10
+          "kosten_mio": 10,
+          "lat": 52.52833219,
+          "lon": 13.455633705,
+          "coord_quelle": "WFS Detailnetz Berlin: Landsberger-Allee-Brücke (ÜBB Süd)"
         },
         {
           "name": "Darßer Brücke",
@@ -400,7 +463,10 @@
           "baujahr": 1991,
           "baubeginn": 2038,
           "bauende": 2040,
-          "kosten_mio": 6
+          "kosten_mio": 6,
+          "lat": 52.56728678,
+          "lon": 13.47448949,
+          "coord_quelle": "WFS Detailnetz Berlin: Darßer Brücke"
         },
         {
           "name": "Lindenberger-Weg-Brücke",
@@ -411,15 +477,24 @@
         },
         {
           "name": "Ossietzkybrücke",
-          "status": "in_planung"
+          "status": "in_planung",
+          "lat": 52.575060789999995,
+          "lon": 13.40694284,
+          "coord_quelle": "WFS Detailnetz Berlin: Ossietzkybrücke (Panke)"
         },
         {
           "name": "Schloßparkbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.575399559999994,
+          "lon": 13.407663195000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Schloßparkbrücke I (Panke)"
         },
         {
           "name": "Schloßparkbrücke III",
-          "status": "im_bau"
+          "status": "im_bau",
+          "lat": 52.579437584999994,
+          "lon": 13.414627674999998,
+          "coord_quelle": "WFS Detailnetz Berlin: Schloßparkbrücke III (Panke)"
         },
         {
           "name": "Westlicher Parksteg",
@@ -458,7 +533,10 @@
           "baujahr": 1956,
           "baubeginn": 2029,
           "bauende": 2034,
-          "kosten_mio": 29
+          "kosten_mio": 29,
+          "lat": 52.52066415,
+          "lon": 13.306235735,
+          "coord_quelle": "WFS Detailnetz Berlin: Caprivibrücke"
         },
         {
           "name": "Schlossbrücke",
@@ -466,15 +544,24 @@
           "baujahr": 1929,
           "baubeginn": 2028,
           "bauende": 2033,
-          "kosten_mio": 23
+          "kosten_mio": 23,
+          "lat": 52.521789815000005,
+          "lon": 13.30007707,
+          "coord_quelle": "WFS Detailnetz Berlin: Schloßbrücke"
         },
         {
           "name": "Schlossbrückensteg",
-          "status": "in_planung"
+          "status": "in_planung",
+          "lat": 52.521789815000005,
+          "lon": 13.30007707,
+          "coord_quelle": "WFS Detailnetz Berlin: Schloßbrücke"
         },
         {
           "name": "Nördliche Holzbrücke Ruhwaldpark",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.513519009999996,
+          "lon": 13.344487645000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Holzbrücke"
         },
         {
           "name": "Brücke Parkhaus ICC - Halenseestraße West",
@@ -486,7 +573,10 @@
           "baujahr": 1967,
           "baubeginn": 2033,
           "bauende": 2036,
-          "kosten_mio": 15
+          "kosten_mio": 15,
+          "lat": 52.500233341666664,
+          "lon": 13.280208236666667,
+          "coord_quelle": "WFS Detailnetz Berlin: Halenseestraßenbrücke"
         },
         {
           "name": "Halenseestraßenbrücke Ost",
@@ -494,7 +584,10 @@
           "baujahr": 1961,
           "baubeginn": 2033,
           "bauende": 2036,
-          "kosten_mio": 20
+          "kosten_mio": 20,
+          "lat": 52.500233341666664,
+          "lon": 13.280208236666667,
+          "coord_quelle": "WFS Detailnetz Berlin: Halenseestraßenbrücke"
         },
         {
           "name": "Kurfürstendammbrücke",
@@ -531,11 +624,17 @@
         },
         {
           "name": "Spektelakesteg I",
-          "status": "in_planung"
+          "status": "in_planung",
+          "lat": 52.54625419,
+          "lon": 13.151822275,
+          "coord_quelle": "WFS Detailnetz Berlin: Spektelakesteg I"
         },
         {
           "name": "Carl-Schurz-Brücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.53583117,
+          "lon": 13.20131887,
+          "coord_quelle": "WFS Detailnetz Berlin: Carl-Schurz-Brücke"
         },
         {
           "name": "Schulenburgbrücke Havelquerung",
@@ -543,7 +642,10 @@
           "baujahr": 1909,
           "baubeginn": 2028,
           "bauende": 2031,
-          "kosten_mio": 15
+          "kosten_mio": 15,
+          "lat": 52.52432006,
+          "lon": 13.204605095,
+          "coord_quelle": "WFS Detailnetz Berlin: Schulenburgbrücke, ÜBB ü.d. Havel"
         },
         {
           "name": "Schulenburgbrücke nordöstliche Vorlandbrücke",
@@ -551,7 +653,10 @@
           "baujahr": 1909,
           "baubeginn": 2028,
           "bauende": 2031,
-          "kosten_mio": 24.1
+          "kosten_mio": 24.1,
+          "lat": 52.52432006,
+          "lon": 13.204605095,
+          "coord_quelle": "WFS Detailnetz Berlin: Schulenburgbrücke, ÜBB ü.d. Havel"
         },
         {
           "name": "Schulenburgbrücke südwestliche Vorlandbrücke",
@@ -559,7 +664,10 @@
           "baujahr": 1909,
           "baubeginn": 2028,
           "bauende": 2031,
-          "kosten_mio": 16
+          "kosten_mio": 16,
+          "lat": 52.524020934999996,
+          "lon": 13.204054565,
+          "coord_quelle": "WFS Detailnetz Berlin: Schulenburgbrücke, südwestl. Vorlandbrücke"
         },
         {
           "name": "Rohrdammbrücke Ost",
@@ -589,11 +697,17 @@
           "baujahr": 1955,
           "baubeginn": 2029,
           "bauende": 2034,
-          "kosten_mio": 50
+          "kosten_mio": 50,
+          "lat": 52.532043540000004,
+          "lon": 13.20111861,
+          "coord_quelle": "WFS Detailnetz Berlin: Dischingerbrücke Nord"
         },
         {
           "name": "Charlottenbrücke westliche Uferbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.53539347,
+          "lon": 13.205843725000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Charlottenbrücke, westl. Uferbrücke"
         },
         {
           "name": "Charlottenbrücke Havelquerung",
@@ -601,11 +715,17 @@
           "baujahr": 1928,
           "baubeginn": 2032,
           "bauende": 2035,
-          "kosten_mio": 13
+          "kosten_mio": 13,
+          "lat": 52.53539347,
+          "lon": 13.205843725000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Charlottenbrücke, westl. Uferbrücke"
         },
         {
           "name": "Charlottenbrücke östliche Uferbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.53539347,
+          "lon": 13.205843725000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Charlottenbrücke, westl. Uferbrücke"
         },
         {
           "name": "Fußgängerbrücke über den Elsengraben",
@@ -704,11 +824,17 @@
           "baujahr": 1989,
           "baubeginn": 2029,
           "bauende": 2032,
-          "kosten_mio": 5.5
+          "kosten_mio": 5.5,
+          "lat": 52.426168395,
+          "lon": 13.526654385,
+          "coord_quelle": "WFS Detailnetz Berlin: Teltowkanalbrücke"
         },
         {
           "name": "Nördliche Germanenstraßenbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.4140458,
+          "lon": 13.55302094,
+          "coord_quelle": "WFS Detailnetz Berlin: Nördliche Germanenstraßenbrücke"
         },
         {
           "name": "Fußgängerbrücke Rebenweg",
@@ -716,7 +842,10 @@
         },
         {
           "name": "Brigittensteg",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.40045906,
+          "lon": 13.532098315,
+          "coord_quelle": "WFS Detailnetz Berlin: Brigittensteg (Fußgängerbrücke)"
         },
         {
           "name": "Brigittenbrücke",
@@ -724,7 +853,10 @@
           "baujahr": 1991,
           "baubeginn": 2034,
           "bauende": 2035,
-          "kosten_mio": 9
+          "kosten_mio": 9,
+          "lat": 52.40045906,
+          "lon": 13.532098315,
+          "coord_quelle": "WFS Detailnetz Berlin: Brigittenbrücke"
         },
         {
           "name": "Brücke am Bahndamm",
@@ -732,7 +864,10 @@
           "baujahr": 1990,
           "baubeginn": 2026,
           "bauende": 2028,
-          "kosten_mio": 6.1
+          "kosten_mio": 6.1,
+          "lat": 52.4595324,
+          "lon": 13.57659737,
+          "coord_quelle": "WFS Detailnetz Berlin: Brücke Am Bahndamm (Wuhle)"
         },
         {
           "name": "Pyramidenbrücke",
@@ -758,7 +893,10 @@
           "baujahr": 1986,
           "baubeginn": 2037,
           "bauende": 2040,
-          "kosten_mio": 9
+          "kosten_mio": 9,
+          "lat": 52.448486564999996,
+          "lon": 13.574568845,
+          "coord_quelle": "WFS Detailnetz Berlin: Dammbrücke"
         },
         {
           "name": "Lange Brücke",
@@ -777,11 +915,17 @@
           "baujahr": 1900,
           "baubeginn": 2028,
           "bauende": 2032,
-          "kosten_mio": 10
+          "kosten_mio": 10,
+          "lat": 52.46911712,
+          "lon": 13.552902425,
+          "coord_quelle": "WFS Detailnetz Berlin: Köpenicker-Allee-Brücke"
         },
         {
           "name": "Waldstraßenbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.424694085,
+          "lon": 13.72041526,
+          "coord_quelle": "WFS Detailnetz Berlin: Waldstraßenbrücke"
         },
         {
           "name": "Brücke Am Neuen Krug",
@@ -793,7 +937,10 @@
         },
         {
           "name": "Nördliche Rialtoringbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.432324135,
+          "lon": 13.7054257,
+          "coord_quelle": "WFS Detailnetz Berlin: Nördliche Rialtoringbrücke"
         }
       ]
     },
@@ -807,7 +954,10 @@
           "baujahr": 1978,
           "baubeginn": 2027,
           "bauende": 2028,
-          "kosten_mio": 10
+          "kosten_mio": 10,
+          "lat": 52.53861506,
+          "lon": 13.53246489,
+          "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
         },
         {
           "name": "Marzahner Brücke Bauwerk 13 Nord",
@@ -815,7 +965,10 @@
           "baujahr": 1978,
           "baubeginn": 2023,
           "bauende": 2028,
-          "kosten_mio": 36.4
+          "kosten_mio": 36.4,
+          "lat": 52.53990893,
+          "lon": 13.537966019999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 13)"
         },
         {
           "name": "Marzahner Brücke Bauwerk 13 Süd",
@@ -823,7 +976,10 @@
           "baujahr": 1978,
           "baubeginn": 2023,
           "bauende": 2028,
-          "kosten_mio": 36.4
+          "kosten_mio": 36.4,
+          "lat": 52.53990893,
+          "lon": 13.537966019999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 13)"
         },
         {
           "name": "Marzahner Brücke Bauwerk 9 Nord",
@@ -831,7 +987,10 @@
           "baujahr": 1978,
           "baubeginn": 2023,
           "bauende": 2028,
-          "kosten_mio": 36.4
+          "kosten_mio": 36.4,
+          "lat": 52.53861506,
+          "lon": 13.53246489,
+          "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
         },
         {
           "name": "Marzahner Brücke Bauwerk 9 Süd",
@@ -839,7 +998,10 @@
           "baujahr": 1978,
           "baubeginn": 2023,
           "bauende": 2028,
-          "kosten_mio": 36.4
+          "kosten_mio": 36.4,
+          "lat": 52.53861506,
+          "lon": 13.53246489,
+          "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
         },
         {
           "name": "Marzahner Brücke Bauwerk 8",
@@ -847,7 +1009,10 @@
           "baujahr": 1978,
           "baubeginn": 2023,
           "bauende": 2028,
-          "kosten_mio": 36.4
+          "kosten_mio": 36.4,
+          "lat": 52.53861506,
+          "lon": 13.53246489,
+          "coord_quelle": "WFS Detailnetz Berlin: Marzahner Brücke (BW 10), ÜBB Nord"
         },
         {
           "name": "Brücke Allee der Kosmonauten Bauwerk 5a",
@@ -855,7 +1020,10 @@
           "baujahr": 1977,
           "baubeginn": 2027,
           "bauende": 2031,
-          "kosten_mio": 11.8
+          "kosten_mio": 11.8,
+          "lat": 52.525626445,
+          "lon": 13.53697174,
+          "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
         },
         {
           "name": "Brücke Allee der Kosmonauten Bauwerk 5c",
@@ -863,7 +1031,10 @@
           "baujahr": 1979,
           "baubeginn": 2027,
           "bauende": 2031,
-          "kosten_mio": 11.8
+          "kosten_mio": 11.8,
+          "lat": 52.525626445,
+          "lon": 13.53697174,
+          "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
         },
         {
           "name": "Brücke Allee der Kosmonauten Bauwerk 6a",
@@ -871,7 +1042,10 @@
           "baujahr": 1977,
           "baubeginn": 2027,
           "bauende": 2031,
-          "kosten_mio": 11.8
+          "kosten_mio": 11.8,
+          "lat": 52.525626445,
+          "lon": 13.53697174,
+          "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
         },
         {
           "name": "Brücke Allee der Kosmonauten Bauwerk 6c",
@@ -879,7 +1053,10 @@
           "baujahr": 1970,
           "baubeginn": 2027,
           "bauende": 2031,
-          "kosten_mio": 11.8
+          "kosten_mio": 11.8,
+          "lat": 52.525626445,
+          "lon": 13.53697174,
+          "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
         },
         {
           "name": "Brücke Allee der Kosmonauten Bauwerk 7a",
@@ -887,7 +1064,10 @@
           "baujahr": 1979,
           "baubeginn": 2027,
           "bauende": 2031,
-          "kosten_mio": 5
+          "kosten_mio": 5,
+          "lat": 52.525626445,
+          "lon": 13.53697174,
+          "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
         },
         {
           "name": "Brücke Allee der Kosmonauten Bauwerk 7c",
@@ -895,15 +1075,24 @@
           "baujahr": 1979,
           "baubeginn": 2027,
           "bauende": 2031,
-          "kosten_mio": 5
+          "kosten_mio": 5,
+          "lat": 52.525626445,
+          "lon": 13.53697174,
+          "coord_quelle": "WFS Detailnetz Berlin: Br. Allee d. Kosmonauten,BW 6a"
         },
         {
           "name": "Südl. Nikolai-E.-Bersarin-Brücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.549543895,
+          "lon": 13.58661391,
+          "coord_quelle": "WFS Detailnetz Berlin: Nikolai-E.-Bersarin-Brücke"
         },
         {
           "name": "Cecilienstraßenbrücke nördlich",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.5233597,
+          "lon": 13.588782075000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Cecilienstraßenbrücke, nördl.Gehb.- u. Rohrleitungsbrücke"
         },
         {
           "name": "Cecilienstraßenbrücke Straßenbrücke",
@@ -911,11 +1100,17 @@
           "baujahr": 1987,
           "baubeginn": 2034,
           "bauende": 2037,
-          "kosten_mio": 5
+          "kosten_mio": 5,
+          "lat": 52.52327759,
+          "lon": 13.588778860000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Cecilienstraßenbrücke, Straßenbrücke"
         },
         {
           "name": "Cecilienstraßenbrücke südlich",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.5233597,
+          "lon": 13.588782075000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Cecilienstraßenbrücke, nördl.Gehb.- u. Rohrleitungsbrücke"
         },
         {
           "name": "Grottkauer Brücke",
@@ -948,27 +1143,45 @@
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 1 Überbau 1",
-          "status": "in_planung"
+          "status": "in_planung",
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 1 Überbau 2",
-          "status": "in_planung"
+          "status": "in_planung",
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 2 Überbau 1",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 2 Überbau 2",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 3 Überbau 1",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 3 Überbau 2",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 4 Überbau 1",
@@ -976,7 +1189,10 @@
           "baujahr": 1981,
           "baubeginn": 2030,
           "bauende": 2035,
-          "kosten_mio": 13
+          "kosten_mio": 13,
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Märkische-Allee-Brücke Bauwerk 4 Überbau 2",
@@ -984,7 +1200,10 @@
           "baujahr": 1981,
           "baubeginn": 2030,
           "bauende": 2035,
-          "kosten_mio": 13
+          "kosten_mio": 13,
+          "lat": 52.509784565000004,
+          "lon": 13.543868495,
+          "coord_quelle": "WFS Detailnetz Berlin: Märkische-Allee-Brücke, ÜBB 1"
         },
         {
           "name": "Fußgängerbrücke Grabensprung",
@@ -992,7 +1211,10 @@
           "baujahr": 1989,
           "baubeginn": 2039,
           "bauende": 2040,
-          "kosten_mio": 15
+          "kosten_mio": 15,
+          "lat": 52.501761765,
+          "lon": 13.554234319999999,
+          "coord_quelle": "WFS Detailnetz Berlin: FGB Grabensprung"
         },
         {
           "name": "Frankfurter Brücke",
@@ -1010,11 +1232,17 @@
         },
         {
           "name": "Cecilienbrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.525610655,
+          "lon": 13.579169015,
+          "coord_quelle": "WFS Detailnetz Berlin: Cecilienbrücke"
         },
         {
           "name": "Östliche Hellersdorfer Brücke",
-          "status": "in_planung"
+          "status": "in_planung",
+          "lat": 52.539801819999994,
+          "lon": 13.58174115,
+          "coord_quelle": "WFS Detailnetz Berlin: Östliche Hellersdorfer Brücke"
         },
         {
           "name": "Hellersdorfer Brücke",
@@ -1037,15 +1265,24 @@
           "baujahr": 1985,
           "baubeginn": 2035,
           "bauende": 2037,
-          "kosten_mio": 5
+          "kosten_mio": 5,
+          "lat": 52.502734544999996,
+          "lon": 13.37485197,
+          "coord_quelle": "WFS Detailnetz Berlin: Köthener Brücke"
         },
         {
           "name": "Wuhletalbrücke Überbau 1",
-          "status": "im_bau"
+          "status": "im_bau",
+          "lat": 52.562692334999994,
+          "lon": 13.558503315,
+          "coord_quelle": "WFS Detailnetz Berlin: Wuhletalbrücke,ÜBB1 RF Stadteinwärts"
         },
         {
           "name": "Wuhletalbrücke Überbau 2",
-          "status": "im_bau"
+          "status": "im_bau",
+          "lat": 52.562692334999994,
+          "lon": 13.558503315,
+          "coord_quelle": "WFS Detailnetz Berlin: Wuhletalbrücke,ÜBB1 RF Stadteinwärts"
         },
         {
           "name": "Nördliche Blumberger-Damm-Brücke",
@@ -1068,7 +1305,10 @@
         },
         {
           "name": "Honsfelder Brücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.49748133999999,
+          "lon": 13.568847595000001,
+          "coord_quelle": "WFS Detailnetz Berlin: Honsfelder Brücke (Wuhle)"
         },
         {
           "name": "Louis-Lewin-Brücke",
@@ -1105,7 +1345,10 @@
         },
         {
           "name": "Mosbacher Brücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.502641804999996,
+          "lon": 13.577759525,
+          "coord_quelle": "WFS Detailnetz Berlin: Mosbacher Brücke (Wuhle)"
         }
       ]
     },
@@ -1115,7 +1358,10 @@
       "bruecken": [
         {
           "name": "Seebrücke",
-          "status": "noch_nicht_terminiert"
+          "status": "noch_nicht_terminiert",
+          "lat": 52.42080017,
+          "lon": 13.171414129999999,
+          "coord_quelle": "WFS Detailnetz Berlin: Wannseebrücke"
         },
         {
           "name": "Nördliche Falkenberger Brücke",
@@ -1214,7 +1460,10 @@
           "baujahr": 1956,
           "baubeginn": 2032,
           "bauende": 2034,
-          "kosten_mio": 5.5
+          "kosten_mio": 5.5,
+          "lat": 52.581571284999995,
+          "lon": 13.274897289999998,
+          "coord_quelle": "WFS Detailnetz Berlin: Borsigdammbrücke"
         }
       ]
     }
@@ -1237,7 +1486,10 @@
       "baujahr": 1976,
       "baubeginn": 2027,
       "bauende": 2028,
-      "kosten_mio": 2.8
+      "kosten_mio": 2.8,
+      "lat": 52.4691579975,
+      "lon": 13.30686068,
+      "coord_quelle": "WFS Detailnetz Berlin: Rampenbrücke Dillenburger Straße"
     },
     {
       "name": "Putlitzbrücke Gewölbe 1-7",
@@ -1308,7 +1560,10 @@
       "baujahr": 1869,
       "baubeginn": 2028,
       "bauende": 2030,
-      "kosten_mio": 15
+      "kosten_mio": 15,
+      "lat": 52.548630066,
+      "lon": 13.387913915999999,
+      "coord_quelle": "WFS Detailnetz Berlin: Badstraßenbrücke"
     },
     {
       "name": "Hertabrücke",
@@ -1362,7 +1617,10 @@
       "baujahr": 1951,
       "baubeginn": 2026,
       "bauende": 2027,
-      "kosten_mio": 1.2
+      "kosten_mio": 1.2,
+      "lat": 52.516174645,
+      "lon": 13.363833825,
+      "coord_quelle": "WFS Detailnetz Berlin: Nordwegbrücke"
     },
     {
       "name": "Kolonnenbrücke",
@@ -1392,7 +1650,10 @@
       "baujahr": 1971,
       "baubeginn": 2027,
       "bauende": 2028,
-      "kosten_mio": 1.2
+      "kosten_mio": 1.2,
+      "lat": 52.454520835,
+      "lon": 13.584397175,
+      "coord_quelle": "WFS Detailnetz Berlin: Bellevueparkbrücke"
     },
     {
       "name": "Abteibrücke",
