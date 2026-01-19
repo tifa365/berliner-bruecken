@@ -1,6 +1,4 @@
-# Abbruchreife Brücken Berlin
-
-> Teil des Projekts [Berliner Brücken](https://github.com/tifa365/berliner-bruecken)
+# Berliner Brücken
 
 Daten zu maroden und sanierungsbedürftigen Brücken in Berlin, basierend auf dem **Masterplan Brücken 2025-2040** der Senatsverwaltung.
 
