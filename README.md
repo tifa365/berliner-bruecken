@@ -101,5 +101,5 @@ Viele Brücken wurden in den 1970er-80er Jahren aus Spannbeton gebaut. Probleme:
 
 ## Weitere Ressourcen
 
+- [Brückenbau Berlin](https://www.berlin.de/sen/uvk/mobilitaet-und-verkehr/infrastruktur/brueckenbau/) (Senatsverwaltung MVKU)
 - [Liste der Brücken in Berlin](https://de.wikipedia.org/wiki/Liste_der_Br%C3%BCcken_in_Berlin) (Wikipedia)
-- [Berliner Brücken](https://github.com/tifa365/berliner-bruecken) (Hauptprojekt)
