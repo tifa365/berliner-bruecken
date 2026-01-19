@@ -1,0 +1,283 @@
+{
+  "quellen": [
+    {
+      "medium": "Der Tagesspiegel",
+      "datum": "2026-01-15",
+      "url": "https://archive.ph/jEOtK"
+    },
+    {
+      "medium": "Berliner Zeitung",
+      "titel": "Neuer Masterplan für Berlin: Diese Straßenbrücken stehen vor dem Aus",
+      "autor": "Peter Neumann",
+      "datum": "2026-01-17",
+      "url": "https://archive.ph/QXd9g",
+      "basis": "Masterplan Brücken 2025 bis 2040 (Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt)"
+    }
+  ],
+  "zusammenfassung": {
+    "ersatzneubauten": 175,
+    "erhaltungsmassnahmen": 125,
+    "gesamtkosten_mio_euro": 1800,
+    "kosten_neubauten_mio_euro": 1700,
+    "kosten_erhaltung_mio_euro": 125,
+    "zeitraum": "2025-2040",
+    "bruecken_land_berlin": 1047,
+    "standorte": 913
+  },
+  "status_legend": {
+    "im_bau": "Bau läuft",
+    "in_planung": "Planung läuft / vorbereitet",
+    "noch_nicht_terminiert": "Kein konkreter Zeitplan genannt"
+  },
+  "bezirke": [
+    {
+      "bezirk": "Mitte",
+      "anzahl": 12,
+      "bruecken": [
+        { "name": "Mühlendammbrücke Südost", "status": "im_bau", "baujahr": 1967, "baubeginn": 2024, "bauende": 2029, "kosten_mio": 45 },
+        { "name": "Mühlendammbrücke Nordwest", "status": "in_planung", "baujahr": 1970, "baubeginn": 2026, "bauende": 2029, "kosten_mio": 47.7 },
+        { "name": "Neue Gertraudenbrücke Südost", "status": "in_planung", "baujahr": 1977, "baubeginn": 2027, "bauende": 2028, "kosten_mio": 20 },
+        { "name": "Neue Gertraudenbrücke Nordwest", "status": "in_planung", "baujahr": 1977, "baubeginn": 2027, "bauende": 2028, "kosten_mio": 20 },
+        { "name": "Spittelmarktbrücke", "status": "in_planung", "baujahr": 1978, "baubeginn": 2026, "bauende": 2028, "kosten_mio": 10 },
+        { "name": "Putlitzbrücke Überbau 1", "status": "noch_nicht_terminiert", "baujahr": 1979, "baubeginn": 2031, "bauende": 2035, "kosten_mio": 15 },
+        { "name": "Putlitzbrücke Überbau 2", "status": "noch_nicht_terminiert", "baujahr": 1979, "baubeginn": 2031, "bauende": 2035, "kosten_mio": 15 },
+        { "name": "Wullenwebersteg", "status": "noch_nicht_terminiert" },
+        { "name": "Ebertbrücke", "status": "noch_nicht_terminiert", "baujahr": 1992, "baubeginn": 2029, "bauende": 2032, "kosten_mio": 14 },
+        { "name": "Löwenbrücke", "status": "im_bau" },
+        { "name": "Jannowitzbrücke", "status": "noch_nicht_terminiert", "baujahr": 1954, "baubeginn": 2038, "bauende": 2040, "kosten_mio": 25 },
+        { "name": "Jannowitzbrücke, Galerie zum S-Bahnhof", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Friedrichshain-Kreuzberg",
+      "anzahl": 13,
+      "bruecken": [
+        { "name": "Schöneberger Brücke Teilbauwerk 1", "status": "noch_nicht_terminiert" },
+        { "name": "Schöneberger Brücke Teilbauwerk 2", "status": "noch_nicht_terminiert" },
+        { "name": "Schöneberger Brücke Teilbauwerk 3", "status": "noch_nicht_terminiert" },
+        { "name": "Möckernbrücke", "status": "noch_nicht_terminiert", "baujahr": 1952, "baubeginn": 2038, "bauende": 2040, "kosten_mio": 5 },
+        { "name": "Brommybrücke", "status": "in_planung", "baujahr_zerstoert": 1945, "baubeginn": 2028, "bauende": 2031, "kosten_mio": 25, "bemerkung": "1945 zerstört, Aussichtsplattform 2007" },
+        { "name": "Mehringbrücke östlicher Teil", "status": "noch_nicht_terminiert", "baujahr": 1968, "baubeginn": 2029, "bauende": 2032, "kosten_mio": 8 },
+        { "name": "Mehringbrücke westlicher Teil", "status": "noch_nicht_terminiert", "baujahr": 1968, "baubeginn": 2029, "bauende": 2032, "kosten_mio": 8 },
+        { "name": "Elsenbrücke nordwestlicher Teil", "status": "im_bau", "baujahr": 1968, "baubeginn": 2021, "bauende": 2028, "kosten_mio": 58.5, "bemerkung": "Verkehrsfreigabe voraussichtlich Februar 2026" },
+        { "name": "Elsenbrücke südöstlicher Teil", "status": "in_planung", "baubeginn": 2026, "bauende": 2028, "kosten_mio": 58.5 },
+        { "name": "Thielenbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Warschauer Brücke nördlicher Überbau", "status": "noch_nicht_terminiert", "baujahr": 1946, "baubeginn": 2037, "bauende": 2040, "kosten_mio": 20 },
+        { "name": "Warschauer Brücke mittlerer Überbau", "status": "noch_nicht_terminiert", "baujahr": 1946, "baubeginn": 2037, "bauende": 2040, "kosten_mio": 21 },
+        { "name": "Warschauer Brücke südlicher Überbau", "status": "noch_nicht_terminiert", "baujahr": 1946, "baubeginn": 2037, "bauende": 2040, "kosten_mio": 10 }
+      ]
+    },
+    {
+      "bezirk": "Pankow",
+      "anzahl": 28,
+      "bruecken": [
+        { "name": "Sellheimbrücke", "status": "in_planung", "baujahr": 1958, "baubeginn": 2029, "bauende": 2032, "kosten_mio": 40 },
+        { "name": "Blankenburger Laakebrücke", "status": "in_planung", "baujahr": 2017, "baubeginn": 2029, "bauende": 2031, "kosten_mio": 7.4 },
+        { "name": "Bahnhofstraßenbrücke", "status": "in_planung" },
+        { "name": "Pankebrücke I", "status": "noch_nicht_terminiert" },
+        { "name": "Pankebrücke II", "status": "noch_nicht_terminiert" },
+        { "name": "Östliche Bucher-Straßenbrücke", "status": "in_planung", "baujahr": 1974, "baubeginn": 2026, "bauende": 2029, "kosten_mio": 26 },
+        { "name": "Schönfließer Brücke", "status": "in_planung", "baujahr": 1964, "baubeginn": 2026, "bauende": 2027, "kosten_mio": 8.3 },
+        { "name": "Schönhauser-Allee-Brücke Gewölbeteil", "status": "in_planung", "baujahr": 1888, "baubeginn": 2026, "bauende": 2030, "kosten_mio": 15 },
+        { "name": "Schönhauser-Allee-Brücke Nordwest", "status": "in_planung", "baujahr": 1927, "baubeginn": 2026, "bauende": 2030, "kosten_mio": 12.5 },
+        { "name": "Schönhauser-Allee-Brücke Süd", "status": "in_planung", "baujahr": 1927, "baubeginn": 2026, "bauende": 2030, "kosten_mio": 12.5 },
+        { "name": "Pappelalleebrücke", "status": "noch_nicht_terminiert", "baujahr": 1989, "baubeginn": 2029, "bauende": 2031, "kosten_mio": 5.2 },
+        { "name": "Dunckerbrücke", "status": "in_planung", "baujahr": 1976, "baubeginn": 2025, "bauende": 2027, "kosten_mio": 13.3 },
+        { "name": "Kniprodestraßenbrücke nordwestlicher Teil", "status": "noch_nicht_terminiert", "baujahr": 1979, "baubeginn": 2028, "bauende": 2030, "kosten_mio": 12 },
+        { "name": "Kniprodestraßenbrücke südöstlicher Teil", "status": "noch_nicht_terminiert", "baujahr": 1979, "baubeginn": 2028, "bauende": 2030, "kosten_mio": 12 },
+        { "name": "Landsberger-Allee-Brücke Gehbahn", "status": "noch_nicht_terminiert", "baujahr": 1988, "baubeginn": 2031, "bauende": 2033, "kosten_mio": 5.5 },
+        { "name": "Landsberger-Allee-Brücke nördlicher Teil", "status": "noch_nicht_terminiert", "baujahr": 1988, "baubeginn": 2031, "bauende": 2033, "kosten_mio": 8 },
+        { "name": "Landsberger-Allee-Brücke südlicher Teil", "status": "noch_nicht_terminiert", "baujahr": 1989, "baubeginn": 2031, "bauende": 2033, "kosten_mio": 10 },
+        { "name": "Darßer Brücke", "status": "noch_nicht_terminiert", "baujahr": 1991, "baubeginn": 2038, "bauende": 2040, "kosten_mio": 6 },
+        { "name": "Lindenberger-Weg-Brücke", "status": "noch_nicht_terminiert" },
+        { "name": "Ossietzkybrücke", "status": "in_planung" },
+        { "name": "Schloßparkbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Schloßparkbrücke III", "status": "im_bau" },
+        { "name": "Westlicher Parksteg", "status": "noch_nicht_terminiert" },
+        { "name": "Östlicher Parksteg", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Charlottenburg-Wilmersdorf",
+      "anzahl": 10,
+      "bruecken": [
+        { "name": "Röntgenbrücke", "status": "noch_nicht_terminiert", "baujahr": 1962, "baubeginn": 2030, "bauende": 2035, "kosten_mio": 10 },
+        { "name": "Caprivibrücke", "status": "noch_nicht_terminiert", "baujahr": 1956, "baubeginn": 2029, "bauende": 2034, "kosten_mio": 29 },
+        { "name": "Schlossbrücke", "status": "in_planung", "baujahr": 1929, "baubeginn": 2028, "bauende": 2033, "kosten_mio": 23 },
+        { "name": "Schlossbrückensteg", "status": "in_planung" },
+        { "name": "Nördliche Holzbrücke Ruhwaldpark", "status": "noch_nicht_terminiert" },
+        { "name": "Brücke Parkhaus ICC - Halenseestraße West", "status": "noch_nicht_terminiert" },
+        { "name": "Halenseestraßenbrücke West", "status": "noch_nicht_terminiert", "baujahr": 1967, "baubeginn": 2033, "bauende": 2036, "kosten_mio": 15 },
+        { "name": "Halenseestraßenbrücke Ost", "status": "noch_nicht_terminiert", "baujahr": 1961, "baubeginn": 2033, "bauende": 2036, "kosten_mio": 20 },
+        { "name": "Kurfürstendammbrücke", "status": "noch_nicht_terminiert", "baujahr": 1963, "baubeginn": 2037, "bauende": 2040, "kosten_mio": 26 },
+        { "name": "Brücke Lietzensee-Durchlass", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Spandau",
+      "anzahl": 15,
+      "bruecken": [
+        { "name": "Spektegrabensteg", "status": "im_bau" },
+        { "name": "Fußgängerbrücke über die Stieglakegraben", "status": "noch_nicht_terminiert" },
+        { "name": "Spektegrabenbrücke", "status": "in_planung" },
+        { "name": "Spektelakesteg I", "status": "in_planung" },
+        { "name": "Carl-Schurz-Brücke", "status": "noch_nicht_terminiert" },
+        { "name": "Schulenburgbrücke Havelquerung", "status": "in_planung", "baujahr": 1909, "baubeginn": 2028, "bauende": 2031, "kosten_mio": 15 },
+        { "name": "Schulenburgbrücke nordöstliche Vorlandbrücke", "status": "in_planung", "baujahr": 1909, "baubeginn": 2028, "bauende": 2031, "kosten_mio": 24.1 },
+        { "name": "Schulenburgbrücke südwestliche Vorlandbrücke", "status": "in_planung", "baujahr": 1909, "baubeginn": 2028, "bauende": 2031, "kosten_mio": 16 },
+        { "name": "Rohrdammbrücke Ost", "status": "noch_nicht_terminiert", "baujahr": 1953, "baubeginn": 2036, "bauende": 2040, "kosten_mio": 6 },
+        { "name": "Rohrdammbrücke West", "status": "noch_nicht_terminiert", "baujahr": 1953, "baubeginn": 2036, "bauende": 2040, "kosten_mio": 6 },
+        { "name": "Dischingerbrücke Nord", "status": "noch_nicht_terminiert", "baujahr": 1955, "baubeginn": 2029, "bauende": 2034, "kosten_mio": 50 },
+        { "name": "Charlottenbrücke westliche Uferbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Charlottenbrücke Havelquerung", "status": "noch_nicht_terminiert", "baujahr": 1928, "baubeginn": 2032, "bauende": 2035, "kosten_mio": 13 },
+        { "name": "Charlottenbrücke östliche Uferbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Fußgängerbrücke über den Elsengraben", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Steglitz-Zehlendorf",
+      "anzahl": 4,
+      "bruecken": [
+        { "name": "Brücke über den Erlenbruch", "status": "noch_nicht_terminiert" },
+        { "name": "Thielalleebrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Joachim-Tiburtius-Brücke Nordwest", "status": "noch_nicht_terminiert", "baujahr": 1971, "baubeginn": 2035, "bauende": 2039, "kosten_mio": 30.5 },
+        { "name": "Teufelsbrücke", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Tempelhof-Schöneberg",
+      "anzahl": 4,
+      "bruecken": [
+        { "name": "Fußgängerbrücke Priesterweg", "status": "noch_nicht_terminiert" },
+        { "name": "Stubenrauchbrücke", "status": "noch_nicht_terminiert", "baujahr": 1962, "baubeginn": 2035, "bauende": 2036, "kosten_mio": 8 },
+        { "name": "Fußgängerbrücke über den Königsgraben", "status": "in_planung" },
+        { "name": "Fußgängerbrücke über den Poleigraben", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Neukölln",
+      "anzahl": 1,
+      "bruecken": [
+        { "name": "Grenzalleebrücke", "status": "noch_nicht_terminiert", "baujahr": 1974, "baubeginn": 2031, "bauende": 2032, "kosten_mio": 16 }
+      ]
+    },
+    {
+      "bezirk": "Treptow-Köpenick",
+      "anzahl": 18,
+      "bruecken": [
+        { "name": "Teltowkanalbrücke", "status": "noch_nicht_terminiert", "baujahr": 1989, "baubeginn": 2029, "bauende": 2032, "kosten_mio": 5.5 },
+        { "name": "Nördliche Germanenstraßenbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Fußgängerbrücke Rebenweg", "status": "noch_nicht_terminiert" },
+        { "name": "Brigittensteg", "status": "noch_nicht_terminiert" },
+        { "name": "Brigittenbrücke", "status": "noch_nicht_terminiert", "baujahr": 1991, "baubeginn": 2034, "bauende": 2035, "kosten_mio": 9 },
+        { "name": "Brücke am Bahndamm", "status": "in_planung", "baujahr": 1990, "baubeginn": 2026, "bauende": 2028, "kosten_mio": 6.1 },
+        { "name": "Pyramidenbrücke", "status": "im_bau", "baujahr": 1940, "baubeginn": 2023, "bauende": 2027, "kosten_mio": 10 },
+        { "name": "Nördliche Freiarmbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Dammbrücke", "status": "noch_nicht_terminiert", "baujahr": 1986, "baubeginn": 2037, "bauende": 2040, "kosten_mio": 9 },
+        { "name": "Lange Brücke", "status": "in_planung", "baujahr": 1893, "baubeginn": 2029, "bauende": 2033, "kosten_mio": 76 },
+        { "name": "Köpenicker-Allee-Brücke", "status": "in_planung", "baujahr": 1900, "baubeginn": 2028, "bauende": 2032, "kosten_mio": 10 },
+        { "name": "Waldstraßenbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Brücke Am Neuen Krug", "status": "noch_nicht_terminiert" },
+        { "name": "Südliche Rialtoringbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Nördliche Rialtoringbrücke", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Marzahn-Hellersdorf",
+      "anzahl": 49,
+      "bruecken": [
+        { "name": "Marzahner Brücke Bauwerk 16", "status": "im_bau", "baujahr": 1978, "baubeginn": 2027, "bauende": 2028, "kosten_mio": 10 },
+        { "name": "Marzahner Brücke Bauwerk 13 Nord", "status": "im_bau", "baujahr": 1978, "baubeginn": 2023, "bauende": 2028, "kosten_mio": 36.4 },
+        { "name": "Marzahner Brücke Bauwerk 13 Süd", "status": "im_bau", "baujahr": 1978, "baubeginn": 2023, "bauende": 2028, "kosten_mio": 36.4 },
+        { "name": "Marzahner Brücke Bauwerk 9 Nord", "status": "im_bau", "baujahr": 1978, "baubeginn": 2023, "bauende": 2028, "kosten_mio": 36.4 },
+        { "name": "Marzahner Brücke Bauwerk 9 Süd", "status": "im_bau", "baujahr": 1978, "baubeginn": 2023, "bauende": 2028, "kosten_mio": 36.4 },
+        { "name": "Marzahner Brücke Bauwerk 8", "status": "im_bau", "baujahr": 1978, "baubeginn": 2023, "bauende": 2028, "kosten_mio": 36.4 },
+        { "name": "Brücke Allee der Kosmonauten Bauwerk 5a", "status": "in_planung", "baujahr": 1977, "baubeginn": 2027, "bauende": 2031, "kosten_mio": 11.8 },
+        { "name": "Brücke Allee der Kosmonauten Bauwerk 5c", "status": "in_planung", "baujahr": 1979, "baubeginn": 2027, "bauende": 2031, "kosten_mio": 11.8 },
+        { "name": "Brücke Allee der Kosmonauten Bauwerk 6a", "status": "in_planung", "baujahr": 1977, "baubeginn": 2027, "bauende": 2031, "kosten_mio": 11.8 },
+        { "name": "Brücke Allee der Kosmonauten Bauwerk 6c", "status": "in_planung", "baujahr": 1970, "baubeginn": 2027, "bauende": 2031, "kosten_mio": 11.8 },
+        { "name": "Brücke Allee der Kosmonauten Bauwerk 7a", "status": "in_planung", "baujahr": 1979, "baubeginn": 2027, "bauende": 2031, "kosten_mio": 5 },
+        { "name": "Brücke Allee der Kosmonauten Bauwerk 7c", "status": "in_planung", "baujahr": 1979, "baubeginn": 2027, "bauende": 2031, "kosten_mio": 5 },
+        { "name": "Südl. Nikolai-E.-Bersarin-Brücke", "status": "noch_nicht_terminiert" },
+        { "name": "Cecilienstraßenbrücke nördlich", "status": "noch_nicht_terminiert" },
+        { "name": "Cecilienstraßenbrücke Straßenbrücke", "status": "noch_nicht_terminiert", "baujahr": 1987, "baubeginn": 2034, "bauende": 2037, "kosten_mio": 5 },
+        { "name": "Cecilienstraßenbrücke südlich", "status": "noch_nicht_terminiert" },
+        { "name": "Grottkauer Brücke", "status": "noch_nicht_terminiert", "baujahr": 1988, "baubeginn": 2035, "bauende": 2037, "kosten_mio": 7 },
+        { "name": "Fußgängerbrücke Kastanienallee", "status": "noch_nicht_terminiert" },
+        { "name": "Pyramidenringbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Bürknersfelder Straßenbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 1 Überbau 1", "status": "in_planung" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 1 Überbau 2", "status": "in_planung" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 2 Überbau 1", "status": "noch_nicht_terminiert" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 2 Überbau 2", "status": "noch_nicht_terminiert" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 3 Überbau 1", "status": "noch_nicht_terminiert" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 3 Überbau 2", "status": "noch_nicht_terminiert" },
+        { "name": "Märkische-Allee-Brücke Bauwerk 4 Überbau 1", "status": "noch_nicht_terminiert", "baujahr": 1981, "baubeginn": 2030, "bauende": 2035, "kosten_mio": 13 },
+        { "name": "Märkische-Allee-Brücke Bauwerk 4 Überbau 2", "status": "noch_nicht_terminiert", "baujahr": 1981, "baubeginn": 2030, "bauende": 2035, "kosten_mio": 13 },
+        { "name": "Fußgängerbrücke Grabensprung", "status": "noch_nicht_terminiert", "baujahr": 1989, "baubeginn": 2039, "bauende": 2040, "kosten_mio": 15 },
+        { "name": "Frankfurter Brücke", "status": "noch_nicht_terminiert" },
+        { "name": "Wasserwegbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Cecilienbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Östliche Hellersdorfer Brücke", "status": "in_planung" },
+        { "name": "Hellersdorfer Brücke", "status": "in_planung" },
+        { "name": "Südliche Bitterfelder Brücke", "status": "noch_nicht_terminiert", "baujahr": 1982, "baubeginn": 2037, "bauende": 2040, "kosten_mio": 13 },
+        { "name": "Köthener Brücke", "status": "noch_nicht_terminiert", "baujahr": 1985, "baubeginn": 2035, "bauende": 2037, "kosten_mio": 5 },
+        { "name": "Wuhletalbrücke Überbau 1", "status": "im_bau" },
+        { "name": "Wuhletalbrücke Überbau 2", "status": "im_bau" },
+        { "name": "Nördliche Blumberger-Damm-Brücke", "status": "noch_nicht_terminiert" },
+        { "name": "Südöstliche Blumberger-Damm-Brücke", "status": "im_bau" },
+        { "name": "Südwestliche Blumberger-Damm-Brücke", "status": "im_bau" },
+        { "name": "Fußgängerbrücke am Stadion Wuhletal", "status": "in_planung" },
+        { "name": "Honsfelder Brücke", "status": "noch_nicht_terminiert" },
+        { "name": "Louis-Lewin-Brücke", "status": "noch_nicht_terminiert", "baujahr": 1988, "baubeginn": 2038, "bauende": 2040, "kosten_mio": 10.5 },
+        { "name": "Stendaler Brücke West", "status": "noch_nicht_terminiert", "baujahr": 1988, "baubeginn": 2035, "bauende": 2037, "kosten_mio": 7 },
+        { "name": "Stendaler Brücke Ost", "status": "noch_nicht_terminiert", "baujahr": 1985, "baubeginn": 2035, "bauende": 2037, "kosten_mio": 7 },
+        { "name": "Mosbacher Brücke", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Lichtenberg",
+      "anzahl": 12,
+      "bruecken": [
+        { "name": "Seebrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Nördliche Falkenberger Brücke", "status": "noch_nicht_terminiert", "baujahr": 1983, "baubeginn": 2036, "bauende": 2039, "kosten_mio": 10 },
+        { "name": "Südliche Falkenberger Brücke", "status": "noch_nicht_terminiert", "baujahr": 1986, "baubeginn": 2036, "bauende": 2039, "kosten_mio": 12 },
+        { "name": "Hohenschönhausener Rhinstraßenbrücke", "status": "noch_nicht_terminiert" },
+        { "name": "Gehrenseebrücke", "status": "in_planung", "baujahr": 1986, "baubeginn": 2038, "bauende": 2042, "kosten_mio": 41.3 },
+        { "name": "Skandinavische Brücke Süd", "status": "noch_nicht_terminiert", "baujahr": 1977, "baubeginn": 2037, "bauende": 2038, "kosten_mio": 8 },
+        { "name": "Skandinavische Brücke Nord", "status": "noch_nicht_terminiert", "baujahr": 1977, "baubeginn": 2037, "bauende": 2038, "kosten_mio": 7 },
+        { "name": "Fußgängerbrücke Alt-Friedrichsfelde West", "status": "noch_nicht_terminiert", "baujahr": 1979, "baubeginn": 2038, "bauende": 2039, "kosten_mio": 7 },
+        { "name": "Gensinger Brücke", "status": "noch_nicht_terminiert", "baujahr": 1980, "baubeginn": 2038, "bauende": 2040, "kosten_mio": 10 },
+        { "name": "Nördliche Grenzgrabenbrücke", "status": "noch_nicht_terminiert" }
+      ]
+    },
+    {
+      "bezirk": "Reinickendorf",
+      "anzahl": 1,
+      "bruecken": [
+        { "name": "Borsigdammbrücke", "status": "noch_nicht_terminiert", "baujahr": 1956, "baubeginn": 2032, "bauende": 2034, "kosten_mio": 5.5 }
+      ]
+    }
+  ],
+  "erhaltungsmassnahmen": [
+    { "name": "Admiralbrücke", "bezirk": "Friedrichshain-Kreuzberg", "baujahr": 1882, "baubeginn": 2027, "bauende": 2028, "kosten_mio": 5.725 },
+    { "name": "Rampenbrücke Dillenburger Straße", "bezirk": "Charlottenburg-Wilmersdorf", "baujahr": 1976, "baubeginn": 2027, "bauende": 2028, "kosten_mio": 2.8 },
+    { "name": "Putlitzbrücke Gewölbe 1-7", "bezirk": "Mitte", "baujahr": 1912, "baubeginn": 2025, "bauende": 2026, "kosten_mio": 4 },
+    { "name": "Gotzkowskybrücke", "bezirk": "Mitte", "baujahr": 1911, "baubeginn": 2031, "bauende": 2032, "kosten_mio": 1.75 },
+    { "name": "Weidendammer Brücke", "bezirk": "Mitte", "baujahr": 1896, "baubeginn": 2029, "bauende": 2030, "kosten_mio": 1.5 },
+    { "name": "Brücke Bremer Weg West", "bezirk": "Mitte", "baujahr": 1966, "baubeginn": 2026, "bauende": 2027, "kosten_mio": 1.6 },
+    { "name": "Nordhafenbrücke", "bezirk": "Mitte", "baujahr": 1970, "baubeginn": 2025, "bauende": 2027, "kosten_mio": 5.9 },
+    { "name": "Swinemünder Brücke", "bezirk": "Mitte", "baujahr": 1905, "baubeginn": 2030, "bauende": 2032, "kosten_mio": 4.5 },
+    { "name": "Badstraßenbrücke", "bezirk": "Mitte", "baujahr": 1869, "baubeginn": 2028, "bauende": 2030, "kosten_mio": 15 },
+    { "name": "Hertabrücke", "bezirk": "Neukölln", "baujahr": 1912, "baubeginn": 2035, "bauende": 2039, "kosten_mio": 5 },
+    { "name": "Tegeler Hafenbrücke", "bezirk": "Reinickendorf", "baujahr": 1908, "baubeginn": 2029, "bauende": 2033, "kosten_mio": 3.5 },
+    { "name": "Fußgängerbrücke Pulvermühle VII", "bezirk": "Spandau", "baujahr": 1998, "baubeginn": 2025, "bauende": 2026, "kosten_mio": 1.5 },
+    { "name": "Fußgängerbrücke Pulvermühle VIII", "bezirk": "Spandau", "baujahr": 1998, "baubeginn": 2025, "bauende": 2026, "kosten_mio": 1.5 },
+    { "name": "Glienicker Tunnel", "bezirk": "Steglitz-Zehlendorf", "baujahr": 1905, "baubeginn": 2033, "bauende": 2035, "kosten_mio": 1.2 },
+    { "name": "Nordwegbrücke", "bezirk": "Mitte", "baujahr": 1951, "baubeginn": 2026, "bauende": 2027, "kosten_mio": 1.2 },
+    { "name": "Kolonnenbrücke", "bezirk": "Tempelhof-Schöneberg", "baujahr": 1954, "baubeginn": 2025, "bauende": 2026, "kosten_mio": 1.3 },
+    { "name": "Monumentenbrücke", "bezirk": "Tempelhof-Schöneberg", "baujahr": 1930, "baubeginn": 2028, "bauende": 2030, "kosten_mio": 1.4 },
+    { "name": "Bellevueparkbrücke", "bezirk": "Treptow-Köpenick", "baujahr": 1971, "baubeginn": 2027, "bauende": 2028, "kosten_mio": 1.2 },
+    { "name": "Abteibrücke", "bezirk": "Treptow-Köpenick", "baujahr": 1994, "baubeginn": 2034, "bauende": 2036, "kosten_mio": 1.6, "bemerkung": "Behelfsbrücke" }
+  ]
+}
