@@ -1,8 +1,10 @@
 {
   "projekt": "Berlin – Ersatzneubau-Brückenliste (aus Tagesspiegel-Auszug)",
   "quelle": {
-    "url": "https://archive.ph/jEOtK",
-    "beschreibung": "Tagesspiegel-Artikel (Archivlink): 'Jede sechste Brücke in Berlin ist marode: Diese 175 Bauten müssen abgerissen werden' (Stand im Artikel: 15.01.2026)."
+    "medium": "Der Tagesspiegel",
+    "datum": "2026-01-15",
+    "titel": "Jede sechste Brücke in Berlin ist marode: Diese 175 Bauten müssen abgerissen werden",
+    "url": "https://archive.ph/jEOtK"
   },
   "status_werte": {
     "im_bau": "Abriss/Neubau läuft (im Artikel: 'im Bau')",
